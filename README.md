@@ -1,7 +1,7 @@
 # AR-Fly-And-Search
 Android Game made with Google ARCore and Unity C#
 
-<img src="https://lucasgigliozzi.com/wp-content/uploads/2019/11/arflyandsearchpic-145x300.png" width="200" height="350" />
+<img src="https://lucasgigliozzi.com/wp-content/uploads/2019/11/arflyandsearchpic-145x300.png" width="200" height="375" />
 
 ### Description: 
 AR Coin Search is a mobile game compatible with Android and iOS (only tested with Android). The user must control their avatar to collect coins as they spawn. 
@@ -15,4 +15,4 @@ The functionality of the game is as follows: the app takes the users camera inpu
 ### How it works:
 Unity was used for object and model design as well as the central game engine. Google ARCore and its additional Unity objects were used to enable camera capture to create the game world. In combination, these two platforms were responsible for displaying the game objects and environment via camera capture from the users mobile device. C# scripts were used to enable interactions between game objects, as well as for score and time keeping. 
 
-<img src="https://lucasgigliozzi.com/wp-content/uploads/2019/11/argamedragon.gif" width="200" height="200" />
+<img src="https://lucasgigliozzi.com/wp-content/uploads/2019/11/argamedragon.gif" width="400" height="300" />
